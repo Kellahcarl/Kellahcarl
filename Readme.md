@@ -1,5 +1,4 @@
-## Ola ! Hello!  👋, je suis appelé Baraka Caleb!  
-  
+## Ola ! Hello! 👋, je suis appelé Baraka Caleb!
 
 <a href="https://github.com/github.com/kellahcarl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -10,11 +9,10 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/caleb-kellah-b756b1164" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
 
 
+### Glad to see you here!
 
-### Glad to see you here!  
 Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lies in crafting dynamic web applications with a focus on the latest technologies.
 
 💻 Proficient in HTML, CSS, and JavaScript, I elevate user experiences through engaging front-end development. My mastery extends to TypeScript, Angular, React, Bootstrap, and Tailwind, ensuring versatile and responsive designs.
@@ -25,37 +23,22 @@ Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lie
 
 🚀 Let's collaborate to create innovative solutions that seamlessly blend functionality and aesthetics. Open to exciting opportunities and challenges!
 
-  
-  
+<br/>
 
-<br/>  
+## Rapidfire
 
+- 🌱 I’m currently learning Cypress , Jest & k6
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- 🔭 I’m currently working on [Ecommerce Website](https://github.com/Kellahcarl/SHOPIFY-ECOMMERCE-ANGULAR-NODE-MSSQL.git)
 
-- 🌱 I’m currently learning Cypress , Jest & k6  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/Kellahcarl/SHOPIFY-ECOMMERCE-ANGULAR-NODE-MSSQL.git)  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+<br/>
 
-- ⚡ Fun fact: I use tabs over spaces  
+## Languages and Tools
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -85,35 +68,30 @@ Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lie
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="25" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kellahcarl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
+</td></tr></table>
 
+<br/>
 
-</td></tr></table>  
+<br/>
 
-<br/>  
+![Profile views counter](https://komarev.com/ghpvc/?username=kellahcarl&&style=flat-square)
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=kellahcarl&&style=flat-square)  
-  
-
-<br/>  
-
+<br/>
 
 <br />
 
-----
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
