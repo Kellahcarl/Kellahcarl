@@ -8,8 +8,7 @@
 </a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/caleb-kellah-b756b1164" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
+</a>
 
 ### Glad to see you here!
 
@@ -74,13 +73,7 @@ Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lie
 
 ## Github Stats
 
-<table><tr><td valign="top" width="50%">
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kellahcarl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>
 
 <br/>
 
@@ -93,4 +86,3 @@ Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lie
 <br />
 
 ---
-
