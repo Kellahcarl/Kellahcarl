@@ -28,7 +28,7 @@ Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lie
 
 - 🌱 I’m currently learning Cypress , Jest & k6
 
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/Kellahcarl/SHOPIFY-ECOMMERCE-ANGULAR-NODE-MSSQL.git)
+- 🔭 I’m currently working on [Talky Social Network Website](https://github.com/Kellahcarl/Talky-Social-Network-ANGULAR-NODE-TS-MSSQL.git)
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
