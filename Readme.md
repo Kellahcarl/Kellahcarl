@@ -1,88 +1,70 @@
-## Ola ! Hello! 👋, je suis appelé Baraka Caleb!
+## Ola! Hello! 👋, je suis appelé Baraka Caleb!
 
-<a href="https://github.com/github.com/kellahcarl" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/bcaleb98" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/caleb-kellah-b756b1164" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://github.com/kellahcarl" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### Glad to see you here!
+---
 
-Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lies in crafting dynamic web applications with a focus on the latest technologies.
+### Hey there! 👋
 
-💻 Proficient in HTML, CSS, and JavaScript, I elevate user experiences through engaging front-end development. My mastery extends to TypeScript, Angular, React, Bootstrap, and Tailwind, ensuring versatile and responsive designs.
+I’m **Caleb Baraka Kellah**, a **Technical Writer at Digital Qatalyst (DQ)** — where I design, write, and refine documentation systems for digital transformation projects.  
 
-🌐 On the back end, I wield the power of Node.js and Express to build robust server-side applications. I'm well-versed in database management, particularly with MS SQL, guaranteeing seamless data integration.
+I balance words and code like two sides of the same coin. I build and test software, manage content pipelines, and create experiences that help people *understand* technology, not just use it.  
 
-🧪 Testing is my forte, and I thrive on ensuring the reliability of applications. From Jest and Express testing to K6 and Karma testing, I'm dedicated to delivering high-quality, bug-free code.
+🧩 My work spans:
+- **Technical Writing** – crafting docs, frameworks, and design blueprints for enterprise and AI systems.  
+- **Software Development** – building with **JavaScript**, **TypeScript**, **React**, and **Node.js**.  
+- **Quality Assurance** – testing with **Cypress**, **Jest**, **k6**, and automation scripts.  
+- **Social Media Marketing** – shaping digital storytelling and brand presence for tech communities.  
 
-🚀 Let's collaborate to create innovative solutions that seamlessly blend functionality and aesthetics. Open to exciting opportunities and challenges!
+I live by one rule: _make it make sense — and make it look good while you’re at it._
 
-<br/>
+---
 
-## Rapidfire
+## 🔥 Quick Bits
 
-- 🌱 I’m currently learning Cypress , Jest & k6
+- 💼 Currently working with **DQ Content Factory**, focusing on design systems, digital reports, and AI documentation.  
+- 🌱 Learning advanced **test automation**, **API documentation**, and **content design systems**.  
+- 🧠 Ask me about **MERN stack**, **QA frameworks**, or **tech writing workflows**.  
+- ⚡ Fun fact: I document my bugs before I fix them — future Caleb deserves context.  
+- 🎧 Mood: _Coffee-fueled clarity._
 
-- 🔭 I’m currently working on [Talky Social Network Website](https://github.com/Kellahcarl/Talky-Social-Network-ANGULAR-NODE-TS-MSSQL.git)
+---
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-
-- ⚡ Fun fact: I use tabs over spaces
-
-<br/>
-
-## Languages and Tools
+## 🧰 Languages & Tools
 
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" /></a>  
+<a href="https://www.cypress.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cypressio.svg" height="50" /></a>  
+<a href="https://k6.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/k6io.svg" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="50" /></a>  
+<a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" /></a>  
 </div>
 
-<br/>
+---
 
-## Github Stats
+## 📊 GitHub Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kellahcarl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kellahcarl&show_icons=true&count_private=true&hide_border=true" />
+</div>
 
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=kellahcarl&&style=flat-square)
 
-<br/>
-
-<br />
-
 ---
+
+✍️ “I write so systems can speak clearly — and people can listen without friction.”
